@@ -1,4 +1,4 @@
-## <div><p align="center">`Hello World`, welcome to my GitHub 👋</div></p>
+## <div><p align="center">`Hello World`, welcome to my GitHub <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="25"></div></p>
 Me chamo Thiago José da Silva.<br>
 Fascinado em tencnologia e inovações, e em constante desenvolvimento.<br>
 ## 
