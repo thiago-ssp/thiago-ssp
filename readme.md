@@ -1,4 +1,4 @@
-#### ('`Hello World`') __welcome to my github__ 👋
+#### ('`Hello World`') __Welcome to my GitHub__ 👋
 Me chamo Thiago, moro no interior de São Paulo.<br>
 Sou apaixonado por tecnologia e inovações.
 
