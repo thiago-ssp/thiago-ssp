@@ -6,9 +6,11 @@
 <p align="center"><a href="https://www.linkedin.com/in/thiagossp/">linkedIn</a>, <a href="mailto: thiago.tcsilva@outlook.com">email</a>  </p>
 
 #
+<div align="right">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=react&hide_border=true&bg_color=0000" /><img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-ssp&show_icons=true&theme=react&hide_border=true&bg_color=0000" />
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-ssp&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0000)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0000)
-
+#
 <details>	
     <summary>certifications</summary>
         <ul>
@@ -17,5 +19,5 @@
             <a href="https://on.fiap.com.br/pluginfile.php/1/local_nanocourses/certificado_nanocourse/51465/af4e7a217e6bd3f88e0a7c83b2c5c948/certificado.png">Blockchain Advanced</a> FIAP
         </ul>	
     </details>
-
+    
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=thiago-ssp&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
