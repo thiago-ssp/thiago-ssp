@@ -7,6 +7,7 @@
 
 #
 <div align="right">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-ssp&layout=compact&theme=github_dark&hide_border=true&bg_color=0000" />   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiago-ssp&show_icons=true&theme=github_dark&hide_border=true&bg_color=0000" />
 </div>
 
