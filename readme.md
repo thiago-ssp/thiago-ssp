@@ -3,7 +3,7 @@
 ### <div><p align="center">`Hello World`, __welcome to my GitHub__ <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></div></p>
 
 
-<p align="center"><a href="https://www.linkedin.com/in/thiagossp/">linkedIn</a>, <a href="mailto: thiago.tcsilva@outlook.com">email</a>  </p>
+<p align="center"><a href="https://www.linkedin.com/in/thiagossp/">linkedIn</a>  </p>
 
 #
 <div align="right">
